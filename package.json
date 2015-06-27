@@ -1,0 +1,8 @@
+{
+  "name": "jquery-mobile-animation",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1"
+  }
+}

@@ -1,0 +1,3 @@
+# jquery-mobile-animation
+
+提取自jquery mobile项目中的css3动画库，提供基于autoprefixer自动构建兼容特定浏览器前缀的css
